@@ -1,5 +1,5 @@
 # projeto-labefy-frontend
-Projeto desenvolvido na Semana 07 do Bootcamp Full Stack Labenu
+Projeto desenvolvido no Bootcamp Full Stack Labenu
 # Consumindo api
 # Trabalhando com React e Axios
 
